@@ -1,10 +1,10 @@
-# Universidad [Nombre de la Universidad]  
-## Facultad de [Nombre de la Facultad]  
-### Carrera de [Nombre de la Carrera]  
+# Universidad Tecnica De Ambato  
+## Facultad de INGENIERIA EN SISTEMAS, ELECTRONICA E INDUSTRIAL 
+### Carrera de INGENIERIA EN SOFTWARE  
 
 **Asignatura:** Manejo y Configuración de Software  
-**Nombre del Estudiante:** ___________________________  
-**Fecha:** ___________________  
+**Nombre del Estudiante:** SANTIAGO ALEJANDRO GAMBOA ARAUJO 
+**Fecha:** 08/04/2026  
 
 ---
 
@@ -158,6 +158,24 @@ TERCER COMMIT
 
 <!-- Escribe aquí tu respuesta completa a la Pregunta 3 -->
 
+INICIA EL GIT FLOW INIT
+
+![alt text](image-6.png)
+
+CREACION DE LA RAMA FEATURE CON EL NOMBRE DE INGRESAR ENCABEZADO
+![alt text](image-4.png)
+
+LUEGO SE MODIFICA EL ENCABEZADO DE README.MD Y SE REALIZA EL GIT ADD . Y SU COMMIT
+
+![alt text](image-7.png)
+
+
+FINALIZACION DE FEATURE Y REGRESO A LA RAMA DEVELOP
+![alt text](image-5.png)
+
+
+REFLEXION:
+la organización del código mediante ramas dedicadas, la facilitación del desarrollo paralelo, lanzamientos controlados, y una gestión eficiente de correcciones urgentes (hotfixes) sin interrumpir el flujo de trabajo
 ---
 
 ## Pregunta 4 (2 puntos)
