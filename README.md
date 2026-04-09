@@ -158,6 +158,9 @@ TERCER COMMIT
 
 <!-- Escribe aquí tu respuesta completa a la Pregunta 3 -->
 
+![alt text](image-4.png)
+
+
 INICIA EL GIT FLOW INIT
 ![EVIDENCIA](image-6.png)
 
