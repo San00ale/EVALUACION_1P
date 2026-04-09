@@ -41,6 +41,41 @@
 **📝 Respuesta:**
 
 <!-- Escribe aquí tu respuesta a la Pregunta 1 -->
+🔹 git clone  
+Permite copiar un repositorio remoto al equipo local.
+
+🔹 fork  
+Permite crear una copia de un repositorio en la cuenta personal de GitHub.
+
+🔹 git pull  
+Permite actualizar el repositorio local con los cambios del remoto.
+
+
+PROCESO
+
+Se realizó el fork desde GitHub.
+
+SE INGRESO AL LINK DEL RESPOSITORIO DEL INGENIERO
+![EVIDENCIA](imagenes/image.png)
+
+SE APLASTO EN EL BOTON DE FORK, DONDE NOS REDIRIGE AL APARTADO PARA CREAR EL FORK POR MEDIO DEL BOTON CREATE FORK
+![EVIDENCIA](imagenes/image-1.png)
+
+NOS VUELVE A REDIRIGIR AL REPOSITORIO DEL ING Y AHORA APLASTAMOS EN EL BOTON DE CODE PARA PARA COPIAR EL LINK DE HTTPS PARA PODER CLONAR
+![EVIDENCIA](imagenes/image-2.png)
+
+Luego se ejecutó:
+SE EJECUTA EL COMANDO GIT CLONE CON LA URL DE HTTPS
+![EVIDENCIA](imagenes/image-3.png)
+
+Para verificar se utilizó:
+
+git remote -v
+
+![EVIDENCIA](imagenes/image-4.png)
+
+Confirmando que el repositorio pertenece a mi cuenta.
+
 
 ---
 
