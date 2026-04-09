@@ -203,6 +203,11 @@ la organización del código mediante ramas dedicadas, la facilitación del desa
 
 <!-- Escribe aquí tu respuesta completa a la Pregunta 4 -->
 
+Un Pull Request (PR) es una solicitud que realiza un desarrollador para integrar los cambios que ha hecho en una rama hacia otra, generalmente la rama principal del repositorio en plataformas como GitHub. Su función dentro de un flujo de trabajo colaborativo es permitir que otros miembros del equipo revisen, comenten y validen esos cambios antes de que sean incorporados oficialmente al proyecto, facilitando así una colaboración organizada y controlada en proyectos gestionados con Git.
+
+Es importante revisar un Pull Request antes de fusionarlo con la rama principal porque ayuda a detectar errores, mejorar la calidad del código y asegurar que se cumplan los estándares del proyecto. Además, evita que se introduzcan fallos que puedan afectar el funcionamiento del sistema y permite mantener la estabilidad del repositorio. También fomenta el aprendizaje entre los miembros del equipo al compartir buenas prácticas y sugerencias de mejora.
+
+Durante la revisión de un Pull Request se suelen realizar varias observaciones y validaciones, como verificar que el código esté bien estructurado y sea legible, comprobar que cumple con la funcionalidad esperada, revisar posibles errores o vulnerabilidades de seguridad, asegurar que no existan conflictos con otros cambios y validar que se hayan realizado pruebas adecuadas. Asimismo, se revisa que la documentación esté actualizada y que los cambios estén correctamente justificados.
 ---
 
 ## Pregunta 5 (2 puntos)
