@@ -1,10 +1,10 @@
-# Universidad [Nombre de la Universidad]  
-## Facultad de [Nombre de la Facultad]  
-### Carrera de [Nombre de la Carrera]  
+# Universidad Tecnica De Ambato  
+## Facultad de INGENIERIA EN SISTEMAS, ELECTRONICA E INDUSTRIAL 
+### Carrera de INGENIERIA EN SOFTWARE  
 
 **Asignatura:** Manejo y Configuración de Software  
-**Nombre del Estudiante:** ___________________________  
-**Fecha:** ___________________  
+**Nombre del Estudiante:** SANTIAGO ALEJANDRO GAMBOA ARAUJO 
+**Fecha:** 08/04/2026  
 
 ---
 
@@ -157,6 +157,9 @@ TERCER COMMIT
 **📝 Respuesta:**
 
 <!-- Escribe aquí tu respuesta completa a la Pregunta 3 -->
+
+![alt text](image-4.png)
+
 
 ---
 
