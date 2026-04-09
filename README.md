@@ -111,7 +111,21 @@ CREACION DE PRUEBAS
 ![alt text](image-1.png)
 
 SEGUNDO COMMIT
+![alt text](image-2.png)
 
+EXPLICACION
+
+El archivo .gitignore permite excluir archivos del control de versiones.
+
+Se configuró para ignorar:
+- Archivos .log
+- Carpeta temp/
+- Archivos .md y .txt dentro de doc/
+
+Se verificó con git status que los archivos no son rastreados.
+![alt text](image-3.png)
+
+TERCER COMMIT
 
 
 ---
