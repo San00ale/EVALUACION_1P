@@ -101,7 +101,17 @@ Confirmando que el repositorio pertenece a mi cuenta.
 <!-- Escribe aquí tu explicación y evidencia para la Pregunta 2 -->
 
 GITIGNORE
-![EVIDENCIA](image.png)
+![EVIDENCIA](iamgenes/image-5.png)
+
+Primer commit
+![alt text](image.png)
+
+CREACION DE PRUEBAS
+
+![alt text](image-1.png)
+
+SEGUNDO COMMIT
+
 
 
 ---
